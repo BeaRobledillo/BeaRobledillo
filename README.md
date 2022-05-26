@@ -2,7 +2,7 @@
 
 **BeitxuelaWEB/BeitxuelaWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 ## 🚀 About Me
 🎓 I am Bea, a **Front End Web Developer and Full Stack Developer**.
@@ -28,6 +28,8 @@ Outside the world of tech, ✈️ I love **traveling** too.
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
