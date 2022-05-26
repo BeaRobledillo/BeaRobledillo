@@ -16,13 +16,12 @@ Outside the world of tech, ✈️ I love **traveling** too.
 
 ## 🛠️ Skills & Tech Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;">
 
-![java](https://img.shields.io/badge/Java-9b9b9b?style=for-the-badge&logo=java&logoColor=black)
-
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![java](https://img.shields.io/badge/Java-9b9b9b?style=for-the-badge&logo=java&logoColor=black)
 
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,6 +38,30 @@ Outside the world of tech, ✈️ I love **traveling** too.
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+<h3 align="left">🪐 Programming Language</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">&nbsp 
+</p>
+
+<h3 align="left">🌙 Framework & library (backend)</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">&nbsp
+</p>
+
+<h3 align="left">☁️ Teamwork</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white">&nbsp
+</p>
+
 
 Here are some ideas to get you started:
 
