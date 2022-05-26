@@ -1,9 +1,14 @@
-### Hi there 👋
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 <!--
 **BeitxuelaWEB/BeitxuelaWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## 🚀 About Me
+🎓 I am Bea, a **Front End Web Developer and Full Stack Developer**.
+Webmaster training, design and programming, and years of experience in databases of large companies. HTML5, CSS3, Bootstrap, PHP, JavaScript, Java, JQuery, MySQL, PHPMyAdmin, Photoshop...
+I enjoy contributing to **Open Source Projects**
+I am really enthusiastic about learning new technology. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
