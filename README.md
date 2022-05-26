@@ -14,7 +14,7 @@ I am really enthusiastic about learning new technology.
 
 Outside the world of tech, ✈️ I love **traveling** too. 
 
-## 🛠️ Skills
+## 🛠️ Skills & Tech Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;">
 
 ![java](https://img.shields.io/badge/Java-9b9b9b?style=for-the-badge&logo=java&logoColor=black)
 
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## 🔗 Links
+## Contact Me <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://beadesarrolloweb.com/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beatrizrobledillogomez/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/BeitxuelaWEB)
