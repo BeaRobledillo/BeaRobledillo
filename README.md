@@ -60,6 +60,8 @@ Outside the world of tech, ✈️ I love **traveling** too.
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Zoom-00897B?style=flat-square&logo=Zoom&logoColor=white">&nbsp
 </p>
 
 
