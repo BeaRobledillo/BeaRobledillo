@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-🎓 I am Bea, a **Front End Web Developer and Full Stack Developer**.
+🎓 I am Bea, a **Full Stack Developer and I enjoy Front End**.
 
 Webmaster training, design and programming, and years of experience in databases of large companies. HTML5, CSS3, Bootstrap, PHP, JavaScript, Java, JQuery, MySQL, PHPMyAdmin, Photoshop...
 
