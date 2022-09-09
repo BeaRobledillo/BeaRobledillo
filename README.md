@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-<h1 align="center">Hi 👋, I'm Bea</h1>
+<h1 align="center">Hi 👋, I'm Beatriz</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beitxuelaweb&label=Profile%20views&color=0e75b6&style=flat" alt="beitxuelaweb" /> </p>
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beitxuelaweb" alt="beitxuelaweb" /></a> </p>
 
 ## 🚀 About Me
-🎓 I am Bea, a **Full Stack Developer and I enjoy Front End**.
+🎓 I am Beatriz, a **Full Stack Developer and I enjoy Front End**.
 
 Webmaster training, design and programming, and years of experience in databases of large companies. HTML5, CSS3, Bootstrap, PHP, JavaScript, Java, JQuery, MySQL, PHPMyAdmin, Photoshop...
 
