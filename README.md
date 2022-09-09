@@ -6,11 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beitxuelaweb" alt="beitxuelaweb" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/beatrizrobledillogomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatrizrobledillogomez" height="30" width="40" /></a>
-</p>
-
 ## 🚀 About Me
 🎓 I am Bea, a **Full Stack Developer and I enjoy Front End**.
 
@@ -74,6 +69,13 @@ Outside the world of tech, ✈️ I love **traveling** too.
 
 <a href="https://beadesarrolloweb.com/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a href="https://t.me/BEITXUELA1979" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/beatrizrobledillogomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatrizrobledillogomez" height="30" width="40" /></a>
+</p>
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://beadesarrolloweb.com/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beatrizrobledillogomez/)
