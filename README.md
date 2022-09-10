@@ -132,14 +132,6 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
 </div>
 
-###
-
-<img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/womanDev.gif" width="500px;" title="Bea Robledillo">
-
-##
-
-
-
 
 ###
 
@@ -160,6 +152,12 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 
 ##
 
+  ###
+
+<img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/womanDev.gif" width="500px;" title="Bea Robledillo">
+
+##
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beitxuelaweb&" alt="beitxuelaweb" /></p>
 
 
