@@ -1,6 +1,6 @@
 ### :woman_technologist: Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/1721886.png" width="500px;">
+<img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/1721886.png" width="500px;" title="Bea Robledillo">
 
 <h1 align="center">Hi 👋, I'm Beatriz</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
@@ -17,7 +17,7 @@ I am really enthusiastic about learning new technology.
 
 Outside the world of tech :computer:, I love **traveling**  ✈️ too. 
 
-# 🛠️ Skills & Tech Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;">
+# 🛠️ Skills & Tech Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;" title="Developer">
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,7 +62,7 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 
 ##
 
-<img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/womanDev.gif" width="500px;">
+<img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/womanDev.gif" width="500px;" title="Bea Robledillo">
 
 ##
 
