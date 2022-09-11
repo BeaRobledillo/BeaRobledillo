@@ -66,7 +66,10 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
   <img src="https://img.shields.io/badge/Zoom-00897B?style=flat-square&logo=Zoom&logoColor=white">&nbsp
 </p>
 
-#  :gear: Other Tools and Frameworks:
+
+<details>
+<summary>  <h1> :gear:  Click Here for See Other Tools and Frameworks: :eyes: </h1> </summary>
+
 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
@@ -124,10 +127,10 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="40" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="42" alt="aftereffects logo"  />
 </div>
+</details>
 
-#
-
-###
+<details>
+<summary>  <h1> :gear:  Click Here for See statistics :eyes: </h1> </summary>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&username=BeitxuelaWEB" height="150" alt="stats graph"  />
@@ -160,8 +163,10 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beitxuelaweb&label=Profile%20views&color=0e75b6&style=flat" alt="beitxuelaweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beitxuelaweb" alt="beitxuelaweb" /></a> </p>
+  
+  </details>
 
-## Contact Me <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
+# Contact Me <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
 
 <a href="https://beadesarrolloweb.com/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a href="https://t.me/BEITXUELA1979" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
@@ -170,7 +175,7 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 
 
 
-## 🔗 Links
+# 🔗 Links
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://beadesarrolloweb.com/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beatrizrobledillogomez/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/BeitxuelaWEB)
