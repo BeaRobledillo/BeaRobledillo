@@ -1,13 +1,11 @@
-## :woman_technologist: Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-<h1 align="center">Hi 👋, I'm Beatriz</h1>
-
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">  I'm Beatriz</h1>
 
 
 ###
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center"> :woman_technologist: A passionate frontend developer from Spain</h3>
 
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/1721886.png" width="500px;" title="Bea Robledillo">
 </p>
 
@@ -17,8 +15,6 @@
 ## 🚀 About Me
 # 🎓 I am Beatriz, a **Full Stack Developer and I enjoy Front End**. :desktop_computer:
 <br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 Webmaster training, design and programming, and years of experience in databases of large companies. **HTML5**, **CSS3**, **Bootstrap**, PHP, **JavaScript**, **Java**, JQuery, MySQL, PHPMyAdmin, Bulma, **React**, **Angular**, **TypeScript**, Photoshop...
 
@@ -35,7 +31,8 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![java](https://img.shields.io/badge/Java-9b9b9b?style=for-the-badge&logo=java&logoColor=black)
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
+![php](https://img.shields.io/badge/Php-00897B?style=for-the-badge&logo=Php&logoColor=white)
+
 
 
 <p align="left">
