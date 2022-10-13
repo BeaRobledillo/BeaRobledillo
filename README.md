@@ -16,7 +16,7 @@
 # 🎓 I am Beatriz, a **Full Stack Developer and I enjoy Front End**. :desktop_computer:
 <br clear="both">
 
-Webmaster training, design and programming, and years of experience in databases of large companies. **HTML5**, **CSS3**, **Bootstrap**, PHP, **JavaScript**, **Java**, JQuery, MySQL, PHPMyAdmin, Bulma, **React**, **Angular**, **TypeScript**, Photoshop...
+Webmaster training, design and programming, and years of experience in databases of large companies. **HTML5**, **CSS3**, **Bootstrap**, PHP, Visual Basic, **JavaScript**, **Java**, Spring Boot, Spring Data JPA, Spring Security, JWT, JQuery, MySQL, PHPMyAdmin, MongoDB, Bulma, **React**, **Angular**, **TypeScript**, WordPress, Figma, Photoshop...
 
 I enjoy contributing to **Open Source Projects**
 I am really enthusiastic about learning new technology. 
