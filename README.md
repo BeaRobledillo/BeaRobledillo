@@ -6,14 +6,14 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/BeitxuelaWEB/BeitxuelaWEB/blob/main/1721886.png" width="500px;" title="Bea Robledillo">
+<img align="center" src="https://github.com/BeaRobledillo/BeaRobledillo/blob/main/1721886.png" width="500px;" title="Bea Robledillo">
 </p>
 
 
 
 
 ## 🚀 About Me
-# 🎓 I am Beatriz, a **Full Stack Developer and I enjoy Front End**. :desktop_computer:
+# 🎓 I am a **Full Stack Developer and I enjoy Front End**. :desktop_computer:
 <br clear="both">
 
 Webmaster training, design and programming, and years of experience in databases of large companies. **HTML5**, **CSS3**, **Bootstrap**, PHP, Visual Basic, **JavaScript**, **Java**, Spring Boot, Spring Data JPA, Spring Security, JWT, JQuery, MySQL, PHPMyAdmin, MongoDB, Bulma, **React**, **Angular**, **TypeScript**, WordPress, Figma, Photoshop...
@@ -131,8 +131,8 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 <summary>  <h1> :gear:  Click Here for See statistics :eyes: </h1> </summary>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&username=BeitxuelaWEB" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=true&username=BeitxuelaWEB" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&username=BeaRobledillo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=true&username=BeaRobledillo" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -140,7 +140,7 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=BeitxuelaWEB" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=BeaRobledillo" height="150" alt="stats graph"  />
   
 </div>
 
@@ -214,7 +214,7 @@ Show some ❤️ by starring some of the repositories!
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/BeitxuelaWEB/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/BeaRobledillo/count.svg?"  />
 </div>
 
 ###
