@@ -161,7 +161,7 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 <a href="https://beadesarrolloweb.com/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a href="https://t.me/BEITXUELA1979" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 
-## :handshake: Connect with me: <a href="https://linkedin.com/in/beatrizrobledillogomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatrizrobledillogomez" height="30" width="40" /></a>
+## Connect with me: <a href="https://linkedin.com/in/beatrizrobledillogomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatrizrobledillogomez" height="30" width="40" /></a>
 
 
 
