@@ -68,7 +68,7 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 
 </div>
 <details>
-<summary>  <h1> :gear:  Click Here for See Other Tools and Frameworks: :eyes: </h1> </summary>
+<summary>  <h1>   Click Here for See Other Tools and Frameworks:  </h1> </summary>
 
 
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="70" height="70"/> </a>  
@@ -128,7 +128,7 @@ Outside the world of tech :computer:, I love **traveling**  ✈️ too.
 </details>
 
 <details>
-<summary>  <h1> :gear:  Click Here for See statistics :eyes: </h1> </summary>
+<summary>  <h1>   Click Here for See statistics  </h1> </summary>
 
 
 
